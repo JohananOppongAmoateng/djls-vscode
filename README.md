@@ -1,6 +1,6 @@
 # djls-vscode
 
-A [Django](https://djangoproject.com) extension for [Vs Code](https://code.visualstudio.com).
+[VS Code](https://code.visualstudio.com) client for [Django Language Server](https://github.com/joshuadavidthomas/django-language-server).
 
 ## Requirements
 
