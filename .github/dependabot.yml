@@ -5,10 +5,8 @@ updates:
     schedule:
       interval: weekly
       timezone: America/Chicago
-    labels:
-      - 🤖 dependabot
     groups:
-      cargo:
+      bun:
         patterns:
           - "*"
   - package-ecosystem: github-actions
@@ -16,8 +14,6 @@ updates:
     schedule:
       interval: weekly
       timezone: America/Chicago
-    labels:
-      - 🤖 dependabot
     groups:
       gha:
         patterns:
